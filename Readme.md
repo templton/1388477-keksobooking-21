@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Андрей Андреев](https://up.htmlacademy.ru/javascript/21/user/1388477).
-* Наставник: `Неизвестно`.
+* Наставник: [Саша Джинн](https://up.htmlacademy.ru/javascript/21/user/354189).
 
 ---
 
